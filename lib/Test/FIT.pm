@@ -1,5 +1,5 @@
 package Test::FIT;
-$VERSION = '0.10';
+$VERSION = '0.11';
 @EXPORT = qw(attribute);
 use strict;
 use base 'Exporter';
@@ -97,7 +97,7 @@ different colors depending on the test results.
 If you are having trouble installing the example and just want to see what
 it really should look like, I have the example installed at:
 
-    http://fit.freepan.com/Test-FIT/example/
+http://fit.freepan.org/Test-FIT/example/
 
 NOTE: I am providing this link as a convenience. I may decide not to run
       it at some point. This link may not exist anymore by the time you
